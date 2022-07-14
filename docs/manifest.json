@@ -1,0 +1,307 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Alécio Filipe/Desktop/netly website/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Async.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Async.html",
+          "hash": "YdSlU3i0iPP4jENFbvjJPd30NM7wxbxgJVdBZweiLS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Call.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Call.html",
+          "hash": "dbhbZidUN35gKJC75adf2WxBy1UtmIkhGpREpgwBGFw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Compare.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Compare.html",
+          "hash": "uB5Bp3qkHs59aJh7MiXvotJq2hqVGd+4NV/A9c8f8Bw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Compress.Mode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Compress.Mode.html",
+          "hash": "AO/Zs4IO62VtsQMk5Miz2J40RyS0ICjnZN7HBjggQHw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Compress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Compress.html",
+          "hash": "PtCdSb0QS49aYl9hSdfTmfT/qi5ByeaFR29Hv+1v4Do="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Concat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Concat.html",
+          "hash": "w9A7ODG5Kfx7LvSMOjS6krMQoA2yqzQLdQqAE0LrIFc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Dict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Dict.html",
+          "hash": "YAV6iu/0f0zoichFpIpvD0GUNLiH/Jp29I/Hmx8eMMc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Encode.Mode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Encode.Mode.html",
+          "hash": "5j4wCGIBWB4PyQpvyfCs1Do2uub4kiOY2FZDC0TEacY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Encode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Encode.html",
+          "hash": "kUEHVoVl7OryKLTERutCe5W3vBeopXtOcREfDohL7QI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Events.html",
+          "hash": "5gp8wPc5BMNh5S3uK6DSgtUbmbjNNLtxZShHgHL01/A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.Host.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.Host.html",
+          "hash": "WuRLCqgx2GSPC5mGSp4ySt+e3cjbN4ebk0MVhKP1y+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Core.html",
+          "hash": "ptozQDYSYQea0bd/3GWov1R1jsoDX4yhM6k7npRPfng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Tcp.TcpClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Tcp.TcpClient.html",
+          "hash": "9Y30sjj5eA8wec4CYEh8pvrGeOa3SL4pQmkfBU63ARs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Tcp.TcpServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Tcp.TcpServer.html",
+          "hash": "cgzVa2HAkZrIRmdYpFBttAd8ckPG4zLjrF9TUkyViJY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Netly.Tcp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Netly.Tcp.html",
+          "hash": "DgUuN4f5jcTKAvGRvae6vdanUxiwuoWbD9ZsM8e0WrU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "S6HH25ziEUKWJk9c1SDkf4tv9pt+s1Em+CanR3D4XJQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "fvoF+4qVm3xb8hZr4zcYtuCSxbd8TRnTipIXj0rMkiM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "aOy2sep6UZV26oOkupcIBXuDgHQsCVz7R3i+I6vFl6Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "J2Ucrckdx4dg4IZOx6kwfAACTTn8pqVwhGnYicz3XjE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "incrementalPhase": "build",
+          "total_file_count": 15,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
